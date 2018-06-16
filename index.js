@@ -1,9 +1,9 @@
 const app = "I don't do much."
 
 var kittens = ["milo", "Otis", "Garfield"]
-var kitten = ""
+var kitten = "Ralph"
 
 function destructivelyAppendKitten(kittens) {
-  append"Ralph"(kittens);
+  (kittens)appendkitten;
   return kittens;
 }
